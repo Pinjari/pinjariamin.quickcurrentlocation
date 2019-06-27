@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quick Curren Location Library</string>
+    <string name="permission_not_enabled">Permission not enabled</string>
+    <string name="something_went_wrong">Something went wrong</string>
+</resources>
